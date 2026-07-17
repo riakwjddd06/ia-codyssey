@@ -81,6 +81,11 @@
 
 •	화면 구성: 조명 클로즈업, 어두운 배경. 사람의 손이 은색 스탠드 조명(룩소 라이트)의 스위치를 켭니다.
 
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 30 25" src="https://github.com/user-attachments/assets/c18570c0-842a-4480-a4f1-317f5fec657a" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 30 37" src="https://github.com/user-attachments/assets/b28f9138-47a6-46da-b608-6d5a59dfaaec" />
+
+
+
 •	내레이션: "불이 켜지는 순간, 마법은 시작됩니다."
 
 •	사용 도구: Gemini 2.5 Flash Image(Nano Banana), Google Veo 3.1 Pro
@@ -114,6 +119,16 @@
 •	목표 메시지: 상상이 현실이 되고 이를 마주한 순수한 동심
 
 •	화면 구성: 풀샷, 조명 아래 스케치북 그림들이 3D 오브제(니모, 레미, 카우보이 모자 등)로 변해 공중으로 떠오릅니다. 남자아이가 이를 경이롭게 바라보다 오브제들을 따라 방 밖으로 걸어 나갑니다.
+
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 30 58" src="https://github.com/user-attachments/assets/a2f359d6-4264-42d4-9098-0dd4c204b010" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 31 16" src="https://github.com/user-attachments/assets/b979fdc7-18a4-444a-bb4f-04bbc7c69a16" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 31 26" src="https://github.com/user-attachments/assets/41d79353-ec29-4b2a-9d43-6f42da2e98e0" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 31 43" src="https://github.com/user-attachments/assets/3b3bd71b-1830-4f6d-a6f4-83002c65ecee" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 31 54" src="https://github.com/user-attachments/assets/4ce458b3-0635-4106-b522-4381f591b045" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 32 02" src="https://github.com/user-attachments/assets/48dab4ee-c4a2-467a-ba32-016bb5da4b05" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 32 11" src="https://github.com/user-attachments/assets/e76862f5-0460-4be3-8298-bd585262170a" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 32 23" src="https://github.com/user-attachments/assets/5e0eb4a6-8d56-4968-bd2f-26dfb4f635f9" />
+
 
 •	사용 도구: Gemini 2.5 Flash Image(Nano Banana), Google Veo 3.1 Pro, Runway Gen-4 Turbo
 •	사용 목적: 스틸컷을 먼저 이미지로 제작 후(Gemini 2.5 Flash Image(Nano Banana)), 비디오 생성 시에 이미지와 함께 입력 프롬프트 제시(Google Veo 3.1 Pro, Runway Gen-4 Turbo)
@@ -180,6 +195,11 @@
 •	목표 메시지: 내면의 동심을 안고 픽사 세계로 입장
 
 •	화면 구성: 롱샷. 아이가 3D 오브제들과 함께 픽사 스튜디오 정문으로 걸어 들어갑니다. 이후 'PIXAR' 로고와 램프가 나타나며 영상이 마무리됩니다.
+
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 32 45" src="https://github.com/user-attachments/assets/d872cd17-8810-44fa-b53f-1451d59d3ecb" />
+<img width="1284" height="712" alt="스크린샷 2026-07-17 오후 5 33 01" src="https://github.com/user-attachments/assets/5673ce85-0bf8-4a12-8cff-568b872f8e63" />
+<img width="935" height="526" alt="KakaoTalk_Photo_2026-07-11-00-21-12" src="https://github.com/user-attachments/assets/603adf1a-058c-4176-8712-6e362409fdee" />
+
 
 •	내레이션: "잠들었던 상상이 현실로 깨어나는 곳, 픽사."
 
