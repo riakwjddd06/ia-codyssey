@@ -1,7 +1,9 @@
 # 픽사 애니메이션 스튜디오(PIXAR) 브랜드 필름 기획안
 
 # 픽사 애니메이션 스튜디오
-  
+  <img width="408" height="210" alt="image" src="https://github.com/user-attachments/assets/38e71580-7317-4a55-9bed-4475928e3059" />
+  <img width="462" height="260" alt="image" src="https://github.com/user-attachments/assets/43ddd61f-6062-49e1-84f7-79b886b2ede4" />
+
 미국의 컴퓨터 애니메이션 스튜디오로, 세계에서 제일 영향력 있는 CG 애니메이션 제작사로 평가받고 있다. 현재는 월트 디즈니 컴퍼니의 자회사이다. 사옥은 미국 캘리포니아 에머리빌에 위치하고 있으며 사원 수는 약 800명 규모이다.
 
 대표작: 토이스토리 시리즈, 업, 월-E, 코코, 몬스터 주식회사, 인크레더블, 인사이드 아웃, 니모를 찾아서, 카, 엘리멘탈, 소울 등
@@ -29,14 +31,12 @@
 
 # 사용 도구 목록 및 제작 전략
 •	기획 텍스트 및 프롬프트 생성: 학습 네이토 Gemini 3.1 Pro 
-     
-
-
-
-
+ 
+<img width="225" height="173" alt="image" src="https://github.com/user-attachments/assets/0f92a783-cb33-4392-9488-5afebdff9bae" />
 
 •	이미지 생성: Gemini 2.5 Flash Image(Nano Banana) / 목적: 픽사 특유의 3D 톤앤매너를 가진 키 비주얼 생성, 스토리보드에 맞는 스틸컷 시퀀스 생성
  
+ <img width="374" height="209" alt="image" src="https://github.com/user-attachments/assets/51137608-b4e3-4eec-b1c5-7b2f30878064" />
 
 •	비디오 생성: Runway Gen-4 Turbo, Google Veo 3.1 Pro / 목적: 스틸컷 시퀀스를 한 컷씩 나눠 조명 변화(Light sweep) 및 캐릭터 움직임, 카메라 패닝 모션 부여
 
@@ -46,39 +46,31 @@
 
 •	영상 편집: Capcut / 목적: 컷 편집, 색 보정, 화면 연결(디졸브, 페이드 사용), 음향 삽입에 사용
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 최종 스토리보드
 
 핵심 메세지: 픽사가 이끄는 동심의 세계, 모든 상상력을 현실로 구현할 수 있는 공간=픽사 스튜디오
 
 스토리라인: 
 픽사의 대표 상징인 룩소 라이트의 불빛이 켜지며 시작한다. 
- 
+
+ <img width="174" height="97" alt="image" src="https://github.com/user-attachments/assets/ec180082-02f7-4d31-9a41-d7aa44248f64" />
+
 룩소 라이트의 불빛이 스케치북 속 낙서에 닿자 상상 속 캐릭터가 현실(3D 오브제)로 구현된다. 
 3D 오브제들은 픽사의 대표작을 표현한다(라따뚜이, 월-E, 토이스토리, 니모를 찾아서, 인사이드 아웃).
-  
-그 오브제들의 안내에 아이는 홀린 듯 따라간다. 
-   
-도착한 곳은 픽사 스튜디오. 상상을 현실로 구현하는 공간이 픽사 스튜디오라는 것을 암시한다. 
  
+  <img width="171" height="97" alt="image" src="https://github.com/user-attachments/assets/4e8dae8b-3ae8-4330-a30a-cd3457b4152f" />
+  <img width="170" height="96" alt="image" src="https://github.com/user-attachments/assets/cbc665a1-74df-4f42-96c4-cfd1efdd5c6e" />
+
+그 오브제들의 안내에 아이는 홀린 듯 따라간다. 
+  
+   <img width="170" height="97" alt="image" src="https://github.com/user-attachments/assets/53ea4dea-1fa3-4e91-8127-7c6513c9799e" />
+   <img width="170" height="96" alt="image" src="https://github.com/user-attachments/assets/025082d4-e033-443d-af20-b31ff531bf38" />
+   <img width="169" height="94" alt="image" src="https://github.com/user-attachments/assets/121ae736-1e82-4d08-8de1-ef25ecd8c02c" />
+
+도착한 곳은 픽사 스튜디오. 상상을 현실로 구현하는 공간이 픽사 스튜디오라는 것을 암시한다. 
+
+ <img width="169" height="94" alt="image" src="https://github.com/user-attachments/assets/063d8e76-464a-439d-9728-b27d7275ac17" />
+
 로고와 함께 캐치 프레이즈가 내레이션으로 나오며 브랜드 필름이 마무리된다.
 
 
@@ -149,12 +141,18 @@
 
 ## 씬 2 프롬프트 개선 로그(요약)
 - 수정 전 의도: 아이 캐릭터 중앙 배치 및 바스트샷, 주변을 배회하는 3D 오브제들을 보고 신비로워하는 아이의 표정. 
- 
+
+ <img width="211" height="120" alt="image" src="https://github.com/user-attachments/assets/6c616408-4c77-4b5d-92a9-d5ddc50da97a" />
+
 
 - 문제: 편집시에 시간(10초 이내)이 오버됨, 필요없는 컷을 제외하기로 결정함. 표정 컷은 제한적인 시간에 비해 중요하지 않은 컷이라고 생각되었음.
 
 - 수정 후 변경: 3D 오브제가 문 밖으로 이동, 오브제를 따라가며 신비로워하는 아이의 표정으로 구현.
-  
+
+   <img width="207" height="113" alt="image" src="https://github.com/user-attachments/assets/8470f6e2-3aa0-451b-840b-8767f4f1f581" />
+  <img width="207" height="115" alt="image" src="https://github.com/user-attachments/assets/01278a12-6f45-4e2b-8d27-68d3ac394af5" />
+
+
 
 - 결과 변화: 제한 시간 안에 원하는 컷을 배치할 수 있었음. 
 
